@@ -1,0 +1,6 @@
+{
+  "name": "UniPath AI",
+  "description": "An Academic Intelligence System helping students with university matching, CV analysis, career roadmaps, and exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
